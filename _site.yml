@@ -1,0 +1,21 @@
+name: "Claire Zippel"
+navbar:
+  title: "Claire Zippel"
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "About"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/c-zippel
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/c_zippel
+
+    
+output:
+  html_document:
+    theme: flatly
+    
