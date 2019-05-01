@@ -1,5 +1,6 @@
 ---
-title: "Under Construction"
+title: "Also Under Construction"
 ---
   
-Hello World - About
+```{r echo=FALSE, out.width = "350px"}
+knitr::include_graphics("https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif")
